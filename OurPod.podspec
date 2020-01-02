@@ -27,5 +27,5 @@ Pod::Spec.new do |spec|
 
   spec.source_files  = "OurPod/**/*.{swift}"
   
-  #spec.requires_arc = true
+
 end
