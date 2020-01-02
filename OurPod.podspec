@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
                    DESC
   spec.homepage     = "https://github.com/yousefahmedarafa/OurPod"
  
-  spec.license      = "MIT (example)"
+  spec.license      = "MIT"
   #spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
