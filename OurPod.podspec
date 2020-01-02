@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "OurPod"
-  spec.version      = "0.0.1"
+  spec.version      = "0.1.0"
   spec.summary      = "OurPod get in to your hands set of my custom set of colors"
 
 
